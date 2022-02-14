@@ -20,8 +20,6 @@ This is Hariharan, a Django Backend Developer and Machine Learning Enthusist cur
 
 - 🌱 I’m currently learning **GoLang, ATL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AIGamer28100](https://github.com/AIGamer28100)
-
 <h3>Connect with me:</h3>
 <p>
   <a href="https://codepen.io/aigamer" target="blank" style="margin-right:30px">
