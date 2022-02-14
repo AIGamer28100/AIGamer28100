@@ -2,11 +2,19 @@
 
 This is Hariharan, a Django Backend Developer and Machine Learning Enthusist currently working at [Cyces Inovation Lab LLP](https://cyces.co)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aigamer28100&show_icons=true&locale=en&layout=compact" alt="aigamer28100" /></p>
+<p>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aigamer28100&show_icons=true&locale=en&layout=compact" alt="aigamer28100" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aigamer28100&show_icons=true&locale=en" alt="aigamer28100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aigamer28100&" alt="aigamer28100" /></p>
+<p>
+	<img src="https://github-readme-stats.vercel.app/api?username=aigamer28100&show_icons=true&locale=en" alt="aigamer28100" />
+</p>
+
+
+<p>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aigamer28100&" alt="aigamer28100" />
+</p>
 
 <!-- [![Harihara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AIGamer28100&layout=compact)](https://github.com/AIGamer28100) -->
 
@@ -14,8 +22,8 @@ This is Hariharan, a Django Backend Developer and Machine Learning Enthusist cur
 
 - 👨‍💻 All of my projects are available at [https://github.com/AIGamer28100](https://github.com/AIGamer28100)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
   <a href="https://codepen.io/aigamer" target="blank" style="margin-right:30px">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aigamer" height="30" width="40" />
   </a>
@@ -65,8 +73,8 @@ This is Hariharan, a Django Backend Developer and Machine Learning Enthusist cur
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="margin-right:30px">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
