@@ -1,6 +1,6 @@
 ### Hello World 🌏
 
-I am Hariharan, Python-Django Backend Developer and Machine Learning Enthusist currently working at [Cyces Inovation Lab LLP](https://cyces.co)
+I am Hariharan, Python-Django Backend Developer and Machine Learning Enthusist currently working at [Zoho Corp.](https://zoho.com)
 
 <p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aigamer28100&show_icons=true&locale=en&layout=compact" alt="aigamer28100" />
