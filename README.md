@@ -162,6 +162,6 @@ I am Hariharan, Python-Django Backend Developer and Machine Learning Enthusist c
     </a>
     <img src="https://komarev.com/ghpvc/?username=aigamer28100&label=Profile%20views&color=0e75b6&style=flat" alt="aigamer28100" />
     <a href="https://aigamer.pythonanywhere.com" target="blank">
-        <img src="https://img.shields.io/badge/My%20Portfolio" alt="https://aigamer.pythonanywhere.com" />
+        <img src="https://img.shields.io/badge/My_Portfolio" alt="https://aigamer.pythonanywhere.com" />
     </a>
 </p>
