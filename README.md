@@ -149,19 +149,19 @@ I am Hariharan, Python-Django Backend Developer and Machine Learning Enthusist c
 - 📫 How to reach me: 
 <p>
 	<a href="https://www.linkedin.com/in/hariharan-s-aigamer/" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" />
+        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin&logoColor=0A66C2" />
     </a>
     <a href="https://www.instagram.com/hariharan_2800/" target="blank">
-        <img src="https://img.shields.io/badge/Instagram--_.svg?style=flat&logo=instagram" />
+        <img src="https://img.shields.io/badge/Instagram--_.svg?style=flat&logo=instagram&logoColor=E4405F" />
     </a>
     <a href="mailto:hariharankvasn@gmail.com" target="blank">
-        <img src="https://img.shields.io/badge/Mail--_.svg?style=flat&logo=gmail" />
+        <img src="https://img.shields.io/badge/Mail--_.svg?style=flat&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://aigamer.pythonanywhere.com" target="blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/_-green?logo=pythonanywhere&logoColor=white&label=My%20Portfolio&labelColor=grey&link=https%3A%2F%2Faigamer.pythonanywhere.com%2F">
     </a>
     <a href="https://twitter.com/aigamer2800" target="blank">
-        <img src="https://img.shields.io/twitter/follow/aigamer2800?logo=twitter&style=flat" alt="aigamer2800" />
+        <img src="https://img.shields.io/twitter/follow/aigamer2800?label=AIGAMER2800&style=flat&logo=x&labelColor=grey&color=green" alt="aigamer2800" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=aigamer28100&label=Profile%20views&color=0e75b6&style=flat" alt="aigamer28100" />
-    <a href="https://aigamer.pythonanywhere.com" target="blank">
-        <img src="https://img.shields.io/badge/My_Portfolio" alt="https://aigamer.pythonanywhere.com" />
-    </a>
 </p>
