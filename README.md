@@ -1,6 +1,16 @@
 ### Hello World 🌏
 
-I am Hariharan, Python-Django Backend Developer and Machine Learning Enthusist currently working at [Zoho Corp.](https://zoho.com)
+👨‍💻 DevOps Developer at [Zoho Corp](https://zoho.com) by day, ML enthusiast and computer vision aficionado by night. 
+
+🚀 Passionate about crafting code and building solutions that make life simpler and smarter.
+
+📚 A practical learner who thrives on continuous improvement, because the best code is the one that keeps evolving.
+
+🏎️ Fueled by the need for speed—both in my code and on the racetrack. An avid F1 fan and a motorbike enthusiast.
+
+🎨 Occasionally, I swap my keyboard for a paintbrush, creating colorful canvases that reflect my creative side.
+
+🌟 Join me on this coding journey, where we chase bugs by day and dreams by night.
 
 <p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aigamer28100&show_icons=true&locale=en&layout=compact&langs_count=10&card_width=300" alt="aigamer28100" />
@@ -18,7 +28,7 @@ I am Hariharan, Python-Django Backend Developer and Machine Learning Enthusist c
 
 <!-- [![Harihara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AIGamer28100&layout=compact)](https://github.com/AIGamer28100) -->
 
-- 🌱 I’m currently learning **GoLang, ATL**
+- 🌱 I’m currently learning **GoLang**
 
 <h3>Connect with me:</h3>
 <p>
@@ -146,7 +156,7 @@ I am Hariharan, Python-Django Backend Developer and Machine Learning Enthusist c
   </a>
 </p>
 
-- 📫 How to reach me: 
+📫 Let's connect and explore the infinite possibilities of tech and beyond!
 <p>
 	<a href="https://www.linkedin.com/in/hariharan-s-aigamer/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" />
