@@ -149,13 +149,13 @@ I am Hariharan, Python-Django Backend Developer and Machine Learning Enthusist c
 - 📫 How to reach me: 
 <p>
 	<a href="https://www.linkedin.com/in/hariharan-s-aigamer/" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin&logoColor=0A66C2" />
+        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" />
     </a>
     <a href="https://www.instagram.com/hariharan_2800/" target="blank">
-        <img src="https://img.shields.io/badge/Instagram--_.svg?style=flat&logo=instagram&logoColor=E4405F" />
+        <img src="https://img.shields.io/badge/Instagram--_.svg?style=flat&logo=instagram" />
     </a>
     <a href="mailto:hariharankvasn@gmail.com" target="blank">
-        <img src="https://img.shields.io/badge/Mail--_.svg?style=flat&logo=gmail&logoColor=red" />
+        <img src="https://img.shields.io/badge/Mail--_.svg?style=flat&logo=gmail" />
     </a>
     <a href="https://aigamer.pythonanywhere.com" target="blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/_-green?logo=pythonanywhere&logoColor=white&label=My%20Portfolio&labelColor=grey&link=https%3A%2F%2Faigamer.pythonanywhere.com%2F">
