@@ -1,4 +1,4 @@
-### Hello World 🌏
+### Adventures in Pixels 🌏
 
 👨‍💻 DevOps Developer at [Zoho Corp](https://zoho.com) by day, ML enthusiast and computer vision aficionado by night. 
 
