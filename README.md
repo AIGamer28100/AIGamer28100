@@ -4,9 +4,15 @@ Hey there, I'm Hariharan 👋, a DevOps Developer at [Zoho Corp](https://zoho.co
 
 I thrive on crafting code that simplifies and smartens things up, always learning and evolving 📚. You could say, I'm a practical learner on a mission to improve.
 
-And when I'm not coding, you'll find me racing towards the horizon 🏎️ as an avid F1 fan and motorbike enthusiast. I'm also known to swap my keyboard for a paintbrush 🎨, creating colorful canvases that reflect my creative side.
+And when I'm not coding, you'll find me racing towards the horizon 🏎️ as an avid F1 fan and motorbike enthusiast. I'm also known to swap my keyboard for a paintbrush 🎨, creating colourful canvases that reflect my creative side.
 
 Join me on this coding journey where we chase bugs by day and dreams by night 🌟.
+
+<p>
+	<a href="https://stackoverflow.com/users/13832488/aigamer">
+	    <img src="https://stackoverflow.com/users/flair/13832488.png" height="60" alt="profile for AIGAMER at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AIGAMER at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+    </a>
+</p>
 
 <p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aigamer28100&show_icons=true&locale=en&layout=compact&langs_count=10&card_width=300" alt="aigamer28100" />
@@ -152,7 +158,7 @@ Join me on this coding journey where we chase bugs by day and dreams by night �
 </p>
 
 <p>
-	<a href="https://www.linkedin.com/in/hariharan-s-aigamer/" target="blank">
+    <a href="https://www.linkedin.com/in/hariharan-s-aigamer/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" />
     </a>
     <a href="https://www.instagram.com/hariharan_2800/" target="blank">
