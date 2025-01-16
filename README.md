@@ -24,12 +24,6 @@ Join me on this coding journey where we chase bugs by day and dreams by night ğŸ
 </p>
 
 
-<p>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aigamer28100&" alt="aigamer28100" />
-</p>
-
-<!-- [![Harihara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AIGamer28100&layout=compact)](https://github.com/AIGamer28100) -->
-
 #### Languages and Tools I Love
 
 <p>
