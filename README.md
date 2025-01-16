@@ -168,4 +168,5 @@ Join me on this coding journey where we chase bugs by day and dreams by night ðŸ
         <img src="https://img.shields.io/twitter/follow/aigamer2800?label=AIGAMER2800&style=flat&logo=x&labelColor=grey&color=green" alt="aigamer2800" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=aigamer28100&label=Profile%20views&color=0e75b6&style=flat" alt="aigamer28100" />
+    ![](https://hit.yhype.me/github/profile?account_id=46186870)
 </p>
