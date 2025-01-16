@@ -161,8 +161,8 @@ Join me on this coding journey where we chase bugs by day and dreams by night ğŸ
     <a href="mailto:hariharankvasn@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/Mail--_.svg?style=flat&logo=gmail" />
     </a>
-    <a href="https://aigamer.pythonanywhere.com" target="blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/_-green?logo=pythonanywhere&logoColor=white&label=My%20Portfolio&labelColor=grey&link=https%3A%2F%2Faigamer.pythonanywhere.com%2F">
+    <a href="https://aigamer.dev" target="blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/_-green?logo=pythonanywhere&logoColor=white&label=My%20Portfolio&labelColor=grey&link=https%3A%2F%2Faigamer.dev%2F">
     </a>
     <a href="https://twitter.com/aigamer2800" target="blank">
         <img src="https://img.shields.io/twitter/follow/aigamer2800?label=AIGAMER2800&style=flat&logo=x&labelColor=grey&color=green" alt="aigamer2800" />
